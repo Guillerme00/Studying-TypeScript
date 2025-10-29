@@ -1,4 +1,4 @@
-# 🧠 TypeScript Studies
+# TypeScript Studies
 
 This repository contains my personal notes and practice code while learning **TypeScript**.
 
